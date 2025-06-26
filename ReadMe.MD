@@ -63,17 +63,11 @@ sudo apt remove Creator
 ```
 
 
-### 2. Update Settings
+### Apply product key, Update Settings
 
 
-### 3. Hit "Get Started" in "Extract" section
+### Add some prompts and create
 
-
-### 4. Huggingface model path
-
-```
-~/.cache/huggingface/hub/
-```
 
 
 <br>
