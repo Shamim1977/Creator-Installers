@@ -10,7 +10,6 @@
 ```
 Windows:
 https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator.1.0.0.msi
-https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator.Setup.1.0.0.exe
 
 Linux:
 https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator-1.0.0.AppImage
