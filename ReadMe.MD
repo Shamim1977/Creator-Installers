@@ -1,4 +1,4 @@
-<img src="assedts/appicon.png" alt="Creator" width="72">
+<img src="assets/appicon.png" alt="Creator" width="72">
 
 ## Creator
 
