@@ -11,6 +11,11 @@
 Windows:
 https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator.1.0.0.msi
 
+Ubuntu:
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/creator_1.0.0_amd64.deb
+
+Mac:
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator-1.0.0.dmg
 
 ```
 
