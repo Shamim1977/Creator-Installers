@@ -9,16 +9,16 @@
 
 ```
 Windows:
-https://github.com/Shamim1977/Creator/releases/download/v1.0.0.0/Creator.1.0.0.msi
-https://github.com/Shamim1977/Creator/releases/download/v1.0.0.0/Creator.Setup.1.0.0.exe
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator.1.0.0.msi
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator.Setup.1.0.0.exe
 
 Linux:
-https://github.com/Shamim1977/Creator/releases/download/v1.0.0.0/Creator-1.0.0.AppImage
-https://github.com/Shamim1977/Creator/releases/download/v1.0.0.0/Creator_1.0.0_amd64.deb
-https://github.com/Shamim1977/Creator/releases/download/v1.0.0.0/Creator_1.0.0_amd64.snap
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator-1.0.0.AppImage
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator_1.0.0_amd64.deb
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator_1.0.0_amd64.snap
 
 MacOS:
-https://github.com/Shamim1977/Creator/releases/download/v1.0.0.0/Creator_1.0.0_amd64.dmg
+https://github.com/Shamim1977/Creator-Installers/releases/download/v1.0.0.0/Creator_1.0.0_amd64.dmg
 
 ```
 
